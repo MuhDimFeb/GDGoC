@@ -1,8 +1,8 @@
 # Project Tugas GDGoC   
 
 ## Identity
-Name: Muhammad Dimas Febrian
-NIM: 26/584567/PA/24526
+* Name: Muhammad Dimas Febrian
+* NIM: 26/584567/PA/24526
 
 ## Overview
 
