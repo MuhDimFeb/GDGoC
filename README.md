@@ -54,3 +54,7 @@ Open the address Vite prints (usually http://localhost:5173). The Landing page i
 npm run build   # type-checks, then writes the site to dist/
 npm run preview # serves dist/ locally to check the production build
 ```
+
+## Presentation
+
+https://drive.google.com/file/d/1Suf0GNyH-D82Qp4iYYAMAsIoafjdPXhq/view?usp=sharing
